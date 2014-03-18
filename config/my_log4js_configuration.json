@@ -1,0 +1,36 @@
+
+{
+    "appenders": [
+        {
+            "type": "console"
+        },
+
+        {
+            "type": "dateFile",
+            "filename": "logs/accesslog.log",
+            "maxLogSize": 20480,
+            "pattern":"_yyyy-MM-dd",
+            "alwaysIncludePattern": "false",
+            "category": [ "cheese","console" ]
+        },
+        {
+            "type": "smtp",
+            "recipients": "logzhilong@gmail.com",
+            "sendInterval": 60,
+            "transport": "SMTP",
+            "SMTP": {
+                "host": "smtp.gmail.com",
+                "secureConnection": true,
+                "port": 465,
+                "auth": {
+                    "user": "logzhilong@gmail.com",
+                    "pass": "Hzl3226100"
+                },
+                "debug": true
+            },
+            "category": "mailer"
+        }
+
+    ],
+    "replaceConsole": true
+}

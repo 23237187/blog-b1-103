@@ -1,0 +1,192 @@
+doctype
+html.ks-webkit537.ks-webkit.ks-chrome29.ks-chrome.ks-css3
+head
+    script(charset='utf-8', src='http://a.tbcdn.cn/s/kissy/gallery/??slide/1.2/index-min.js,datalazyload/1.0.1/index-min.js', async='')
+        script(charset='utf-8', src='http://g.tbcdn.cn/kissy/k/1.4.1/??dom/base-min.js,event-min.js,event/dom/base-min.js,event/base-min.js,event/dom/focusin-min.js,event/custom-min.js,io-min.js,promise-min.js,anim-min.js,anim/base-min.js,anim/timer-min.js,anim/transition-min.js,base-min.js,attribute-min.js,node-min.js,cookie-min.js', async='')
+        link(rel='stylesheet', href='/css/bootstrap.css')
+        link#reset-css(rel='stylesheet', href='/stylesheets/reset-min.css', type='text/css', media='all')
+        link#publicCss-css(rel='stylesheet', href='/stylesheets/public-index-min.css', type='text/css', media='all')
+        link#indexCss-css(rel='stylesheet', href='/stylesheets/index-index-min.css', type='text/css', media='all')
+        script(type='text/javascript', src='/javascripts/jquery-1.10.2.js')
+        script(type='text/javascript', src='/javascripts/bootstrap.js')
+        script(type='text/javascript', src='http://g.tbcdn.cn/kissy/k/1.4.1/seed-min.js')
+        script(type='text/javascript', src='/javascripts/public-init-min.js')
+        script(type='text/javascript', src='/javascripts/init-min.js')
+        script(type='text/javascript', src='/javascripts/bootstrap-collapse.js')
+
+        style(type='text/css', media='screen')
+          #wp-admin-bar-user-info .avatar-64 {width:64px}
+        link(rel='shortcut icon', type='image/x-icon', href='http://ued.taobao.org/blog/wp-content/themes/taobaoued/images/favicon.ico')
+        link(rel='apple-touch-icon-precomposed', href='http://ued.taobao.org/blog/wp-content/themes/taobaoued/images/touch-icon.png')
+        meta(name='renderer', content='webkit')
+        meta(http-equiv='X-UA-Compatible', content='IE=edge, chrome=1')
+        meta(charset='UTF-8')
+        link(rel='pingback', href='http://ued.taobao.org/blog/xmlrpc.php')
+        meta(content='black', name='apple-mobile-web-app-status-bar-style')
+        meta(content='yes', name='apple-mobile-web-app-capable')
+        meta(content='telephone=no', name='format-detection')
+        title 极限网络计算与服务实验室官方博客
+        style#custom-background-css(type='text/css')
+          body.custom-background { background-color: #f8f8f8; }
+        style(type='text/css')
+          @charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak{display:none;}ng\:form{display:block;}
+    body.home.blog.custom-background
+        //
+           home url
+        input#J_Home(type='hidden', value='http://www.uestc.edu.cn')
+        //
+           #content
+        #content.clearfix
+            //
+               .col-left
+            .col-left
+                //
+                   #nav
+                #J_Nav.nav(style='top: auto;')
+                    a.ued-logo(href='/', target='_self')
+                        img(src='/images/ExCASRT.png', alt='TaoBaoUED')
+                    .nav-menu
+                        #J_NavLabel.nav-label(style='top: 0px; display: block; transition: none; -webkit-transition: none;')
+                            span
+                        ul#menu-primary.menu
+                            li#menu-item-15.menu-item.menu-item-type-custom.menu-item-object-custom.current-menu-item.current_page_item.menu-item-home.menu-item-15
+                                a(href='/') 首页
+                            li#menu-item-8856.menu-item.menu-item-type-taxonomy.menu-item-object-category.menu-item-has-children.menu-item-8856
+                                a(href='/') 博文
+                                ul.sub-menu
+                                    li#menu-item-8858.menu-item.menu-item-type-taxonomy.menu-item-object-category.menu-item-8858
+                                    - each normal_posts_cat in normal_posts_cats
+
+                                        li
+                                            a(href=categoryURL(normal_posts_cat)) #{normal_posts_cat}
+
+                            li#menu-item-8386.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-8386
+                                a(href='/') 技术交流会
+                            li#menu-item-77.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-77
+                                a(href='/aboutUs') 关于我们
+                                ul.sub-menu
+                                    li#menu-item-8858.menu-item.menu-item-type-taxonomy.menu-item-object-category.menu-item-8858
+                                    - each cat in getCategories()
+                                        li
+                                            a(href=categoryURL(cat)) #{cat}
+                            li#menu-item-77.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-77
+                                a(href='/blog') Blog
+                    .nav-search
+
+                        h2#referer
+                        - each tag in getTags()
+                            a(href=tagURL(tag)) #{tag}
+
+                        //
+                           搜索框
+                        li
+                            form#search(method='get', action='http://ued.taobao.org/blog/')
+                                input#J_Input.input.sprites(type='text', maxlength='30', name='s', placeholder='', value='')
+                        //
+                           END 搜索框
+                //
+                   END #nav
+            //
+               END .col-left
+            //
+               .col-right
+            .col-right
+                //
+                   #login
+                #J_Login.login
+                    a.login-entry.J_LoginEntry(href='javascript:void(0)', title='登录到淘宝UED') 登入
+                    .form-wrapper.J_FormWrapper
+                        i.arrow-refer.sprites
+                        form(name='loginform', action='/blog/login', method='post')
+                            p.col-name
+                                label
+                                    | 账户
+                                    input(type='text', name='log', size='20', tabindex='10')
+                            p.col-pwd
+                                label
+                                    | 密码
+                                    input(type='password', name='pwd', size='20', tabindex='20')
+                            p.col-opt
+                                label
+                                    input(type='checkbox', name='rememberme', value='forever', tabindex='30')
+                                    | 记住我
+                            p.col-submit
+                                input(type='hidden', name='testcookie', value='1')
+                                input(type='hidden', name='redirect_to', value='http://ued.taobao.org:/blog/')
+                                input.btn-submit(type='submit', name='wp-submit', value='登入', tabindex='40')
+                            p.col-extra
+                                a.reg(href='/blog/reg', title='注册极限网络博客') 注册
+
+                //
+                   END #login
+                //
+                   .content-bd
+                .container-fluid
+
+
+                    block content
+
+                    //
+                       END .post-list
+                //
+                   END .content-bd
+            //
+               END .col-right
+            //
+               .back-to-top
+            #J_BackTop.back-top(style='display: none;')
+                a.sprites.bg-anim(href='javascript:void(0)')
+            //
+               END .back-to-top
+        //
+           END #content
+        //
+           #footer
+        #footer
+            .footer-bd
+                .col-up.clearfix
+                    //
+                       .friend-links
+                    .section.friend-links
+                        h3.section-title 友情链接
+                        ul#J_LinksWrapper.closed.link-list
+                            li
+                                a(href='http://www.uestc.edu.cn', target='_blank') 电子科技大学
+
+                        a#J_MoreLink.more-link(href='javascript:void(0)') MORE...
+                    //
+                       END .friend-links
+                    //
+                       .hot-tags
+                    .section.hot-tags
+                        h3.section-title 热门标签
+                        .tag-list
+                            a.tag-link-211(href='http://www.baidu.com', title='12 个话题', style='font-size: 12px;') 大数据
+                            i.point.sprites
+
+                        .footer-search
+                            //
+                               搜索框
+                            form#search(method='get', action='http://ued.taobao.org/blog/')
+                                input#J_Input.input.sprites(type='text', maxlength='30', name='s', placeholder='', value='')
+                            //
+                               END 搜索框
+                    //
+                       END .hot-tags
+                //
+                   footer-logo, copyright, ued-links
+                .col-down.clearfix
+                    a.ued-logo(href='http://ued.taobao.org/blog/', target='_self')
+                        img(src='', alt='TaoBaoUED')
+                    em.copyright
+                        | Copyright © 2014 Taobao UED. All rights reserved.
+                    span.ued-links
+                        a.rss.sprites(href='http://hehe', target='_blank')
+                        a.twitter.sprites(href='http://twitter.com/hehe', target='_blank')
+                        a.weibo.sprites(href='http://e.weibo.com/hehe', target='_blank')
+                //
+                   END footer-logo, copyright, ued-links
+        //
+           END #footer
+        embed(type='application/xl_chrome_plugin', width='0', height='0', style='visibility: hidden;')
+                                                                                                         

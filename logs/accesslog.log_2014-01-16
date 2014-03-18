@@ -1,0 +1,115 @@
+[2014-01-16 16:45:38.847] [INFO] accessLog - GET /
+[2014-01-16 16:46:25.758] [INFO] accessLog - GET /
+[2014-01-16 16:49:17.708] [ERROR] accessLog - GET /about-us
+[2014-01-16 16:51:05.444] [INFO] accessLog - GET /about-us
+[2014-01-16 17:02:50.938] [WARN] accessLog - GET /
+[2014-01-16 17:02:51.026] [WARN] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-16 17:02:51.027] [WARN] accessLog - GET /javascripts/bootstrap.js
+[2014-01-16 17:07:53.360] [WARN] accessLog - GET /
+[2014-01-16 17:07:53.393] [WARN] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-16 17:07:53.395] [WARN] accessLog - GET /javascripts/bootstrap.js
+[2014-01-16 17:08:32.780] [INFO] accessLog - GET /
+[2014-01-16 17:08:32.828] [WARN] accessLog - GET /javascripts/bootstrap.js
+[2014-01-16 17:08:32.831] [WARN] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-16 17:08:35.733] [INFO] accessLog - GET /mycategories/canvas
+[2014-01-16 17:08:35.816] [WARN] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-16 17:08:35.819] [WARN] accessLog - GET /javascripts/bootstrap.js
+[2014-01-16 17:09:42.662] [INFO] accessLog - GET /
+[2014-01-16 17:09:42.694] [WARN] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-16 17:09:42.696] [WARN] accessLog - GET /javascripts/bootstrap.js
+[2014-01-16 17:10:18.882] [WARN] accessLog - GET /
+[2014-01-16 17:10:18.913] [WARN] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-16 17:10:18.915] [WARN] accessLog - GET /javascripts/bootstrap.js
+[2014-01-16 17:10:20.909] [INFO] accessLog - GET /mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB
+[2014-01-16 17:10:20.956] [WARN] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-16 17:10:20.963] [WARN] accessLog - GET /javascripts/bootstrap.js
+[2014-01-16 17:10:40.178] [INFO] accessLog - GET /mypost/%E5%85%B3%E4%BA%8Enode.js%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91
+[2014-01-16 17:10:40.209] [WARN] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-16 17:10:40.212] [WARN] accessLog - GET /javascripts/bootstrap.js
+[2014-01-16 17:10:55.458] [ERROR] accessLog - GET /blog
+[2014-01-16 17:11:00.051] [INFO] accessLog - GET /about-us
+[2014-01-16 17:11:00.153] [WARN] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-16 17:11:00.160] [WARN] accessLog - GET /javascripts/bootstrap.js
+[2014-01-16 17:11:44.141] [INFO] accessLog - GET /
+[2014-01-16 17:11:44.178] [INFO] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-16 17:11:44.180] [INFO] accessLog - GET /javascripts/bootstrap.js
+[2014-01-16 17:12:06.491] [INFO] accessLog - GET /mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB
+[2014-01-16 17:12:06.589] [INFO] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-16 17:12:06.594] [INFO] accessLog - GET /javascripts/bootstrap.js
+[2014-01-16 17:13:12.301] [INFO] accessLog - GET /
+[2014-01-16 17:13:12.359] [INFO] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-16 17:13:12.363] [INFO] accessLog - GET /javascripts/bootstrap.js
+[2014-01-16 17:13:14.774] [INFO] accessLog - GET /mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB
+[2014-01-16 17:13:14.852] [INFO] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-16 17:13:14.853] [INFO] accessLog - GET /javascripts/bootstrap.js
+[2014-01-16 17:17:33.464] [INFO] accessLog - GET /mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB
+[2014-01-16 17:17:33.502] [INFO] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-16 17:17:33.504] [INFO] accessLog - GET /javascripts/bootstrap.js
+[2014-01-16 17:17:51.535] [INFO] accessLog - GET /mypost/%E5%85%B3%E4%BA%8Enode.js%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91
+[2014-01-16 17:17:51.568] [INFO] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-16 17:17:51.570] [INFO] accessLog - GET /javascripts/bootstrap.js
+[2014-01-16 17:18:07.581] [INFO] accessLog - GET /about-us
+[2014-01-16 17:18:07.638] [INFO] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-16 17:18:07.640] [INFO] accessLog - GET /javascripts/bootstrap.js
+[2014-01-16 17:35:14.797] [INFO] accessLog - GET /
+[2014-01-16 17:35:14.900] [INFO] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-16 17:35:14.902] [INFO] accessLog - GET /javascripts/bootstrap.js
+[2014-01-16 17:35:22.366] [INFO] accessLog - GET /mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB
+[2014-01-16 17:35:22.402] [INFO] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-16 17:35:22.403] [INFO] accessLog - GET /javascripts/bootstrap.js
+[2014-01-16 17:38:35.474] [INFO] accessLog - 127.0.0.1 - - "GET /mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 17:38:35.502] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/jquery-1.10.2.js HTTP/1.1" 304 - "http://127.0.0.1:3000/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 17:38:35.504] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/bootstrap.js HTTP/1.1" 304 - "http://127.0.0.1:3000/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 17:38:47.391] [INFO] accessLog - 127.0.0.1 - - "GET /mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB HTTP/1.1" 304 - "http://127.0.0.1:3000/mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 17:38:47.488] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/jquery-1.10.2.js HTTP/1.1" 304 - "http://127.0.0.1:3000/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 17:38:47.490] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/bootstrap.js HTTP/1.1" 304 - "http://127.0.0.1:3000/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 17:53:42.382] [INFO] accessLog - 127.0.0.1 - - "GET /mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 17:53:42.412] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/jquery-1.10.2.js HTTP/1.1" 304 - "http://127.0.0.1:3000/mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 17:53:42.415] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/bootstrap.js HTTP/1.1" 304 - "http://127.0.0.1:3000/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:03:27.048] [INFO] accessLog - 127.0.0.1 - - "GET /mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:03:27.082] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/jquery-1.10.2.js HTTP/1.1" 304 - "http://127.0.0.1:3000/mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:03:27.084] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/bootstrap.js HTTP/1.1" 304 - "http://127.0.0.1:3000/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:03:47.706] [INFO] accessLog - 127.0.0.1 - - "GET /mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:03:47.736] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/jquery-1.10.2.js HTTP/1.1" 304 - "http://127.0.0.1:3000/mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:03:47.739] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/bootstrap.js HTTP/1.1" 304 - "http://127.0.0.1:3000/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:18:46.849] [INFO] accessLog - 127.0.0.1 - - "GET /mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:18:46.900] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/jquery-1.10.2.js HTTP/1.1" 304 - "http://127.0.0.1:3000/mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:18:46.903] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/bootstrap.js HTTP/1.1" 304 - "http://127.0.0.1:3000/mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:20:21.562] [INFO] accessLog - 127.0.0.1 - - "GET / HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:20:21.590] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/jquery-1.10.2.js HTTP/1.1" 304 - "http://127.0.0.1:3000/mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:20:21.592] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/bootstrap.js HTTP/1.1" 304 - "http://127.0.0.1:3000/mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:20:23.511] [INFO] accessLog - 127.0.0.1 - - "GET /mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB HTTP/1.1" 304 - "http://127.0.0.1:3000/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:20:23.585] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/jquery-1.10.2.js HTTP/1.1" 304 - "http://127.0.0.1:3000/mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:20:23.587] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/bootstrap.js HTTP/1.1" 304 - "http://127.0.0.1:3000/mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:28:41.042] [ERROR] console - hello world
+[2014-01-16 18:29:53.424] [ERROR] console - hello world
+[2014-01-16 18:29:57.145] [ERROR] console - hello world
+[2014-01-16 18:31:36.815] [INFO] accessLog - 127.0.0.1 - - "GET /mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:31:36.852] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/jquery-1.10.2.js HTTP/1.1" 304 - "http://127.0.0.1:3000/mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:31:36.855] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/bootstrap.js HTTP/1.1" 304 - "http://127.0.0.1:3000/mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:35:05.865] [ERROR] console - hello world
+[2014-01-16 18:35:51.571] [ERROR] console - hello world
+[2014-01-16 18:36:09.901] [INFO] console - 心得分享
+[2014-01-16 18:36:09.902] [INFO] console - [ { title: '关于node.js的二次开发',
+    tags: [ 'node.js', 'express' ],
+    category: '心得分享',
+    date: Thu Jan 16 2014 00:00:00 GMT+0800 (中国标准时间),
+    content: '<p>The Canvas graphing library. Flotr may be extended by adding new plugins and graph types.</p>\n<h2 id="api">API</h2>\n<p>The API consists of a primary draw method which accepts a configuration object, helper methods, and several microlibs.</p>\n<h3 id="example">Example</h3>\n<pre><code class="lang-javascript">  var\n    // Container div:\n    container = document.getElementById(&quot;flotr-example-graph&quot;),\n    // First data series:\n    d1 = [[0, 3], [4, 8], [8, 5], [9, 13]],\n    // Second data series:\n    d2 = [],\n    // A couple flotr configuration options:\n    options = {\n      xaxis: {\n        minorTickFreq: 4\n      },\n      grid: {\n        minorVerticalLines: true\n      }\n    },\n    i, graph;\n\n  // Generated second data set:\n  for (i = 0; i &lt; 14; i += 0.5) {\n    d2.push([i, Math.sin(i)]);\n  }\n\n  // Draw the graph:\n  graph = Flotr.draw(\n    container,  // Container element\n    [ d1, d2 ], // Array of data series\n    options     // Configuration options\n  );\n</code></pre>\n<h3 id="microlibs">Microlibs</h3>\n<ul>\n<li><a href="http://documentcloud.github.com/underscore/">underscore.js</a></li>\n<li><a href="https://github.com/fat/bean">bean.js</a></li>\n</ul>\n<h2 id="extending">Extending</h2>\n<p>Flotr may be extended by adding new plugins and graph types.</p>\n<h3 id="graph-types">Graph Types</h3>\n<p>Graph types define how a particular chart is rendered.  Examples include line, bar, pie.</p>\n<p>Existing graph types are found in <code>js/types/</code>.</p>\n<h3 id="plugins">Plugins</h3>\n<p>Plugins extend the core of flotr with new functionality.  They can add interactions, new decorations, etc.  Examples\ninclude titles, labels and selection.</p>\n<p>The plugins included are found in <code>js/plugins/</code>.</p>\n<h2 id="development">Development</h2>\n<p>This project uses <a href="https://github.com/fat/smoosh">smoosh</a> to build and <a href="http://pivotal.github.com/jasmine/">jasmine</a>\nwith <a href="https://github.com/HumbleSoftware/js-imagediff">js-imagediff</a> to test.  Tests may be executed by\n<a href="http://johnbintz.github.com/jasmine-headless-webkit/">jasmine-headless-webkit</a> with\n<code>cd spec; jasmine-headless-webkit -j jasmine.yml -c</code> or by a browser by navigating to\n<code>flotr2/spec/SpecRunner.html</code>.</p>\n<h2 id="shoutouts">Shoutouts</h2>\n<p>Thanks to Bas Wenneker, Fabien Ménager and others for all the work on the original Flotr.\nThanks to Jochen Berger and Jordan Santell for their contributions to Flotr2.</p>\n',
+    slug: '关于node.js的二次开发',
+    url: '/mypost/%E5%85%B3%E4%BA%8Enode.js%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91',
+    preview: '<p>The Canvas graphing library. Flotr may be extended by adding new plugins and graph types.</p>\n<p><a href="/mypost/%E5%85%B3%E4%BA%8Enode.js%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91" title="Read more of 关于node.js的二次开发">read more</a></p>' } ]
+[2014-01-16 18:36:09.941] [WARN] console - Warning: missing space before text for line 32 of jade file.
+[2014-01-16 18:36:10.185] [INFO] accessLog - 127.0.0.1 - - "GET /mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:36:10.267] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/jquery-1.10.2.js HTTP/1.1" 304 - "http://127.0.0.1:3000/mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:36:10.268] [INFO] accessLog - 127.0.0.1 - - "GET /javascripts/bootstrap.js HTTP/1.1" 304 - "http://127.0.0.1:3000/mycategories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36"
+[2014-01-16 18:37:10.985] [ERROR] console - hello world
+[2014-01-16 18:37:18.840] [INFO] console - 心得分享
+[2014-01-16 18:37:18.841] [INFO] console - [ { title: '关于node.js的二次开发',
+    tags: [ 'node.js', 'express' ],
+    category: '心得分享',
+    date: Thu Jan 16 2014 00:00:00 GMT+0800 (中国标准时间),
+    content: '<p>The Canvas graphing library. Flotr may be extended by adding new plugins and graph types.</p>\n<h2 id="api">API</h2>\n<p>The API consists of a primary draw method which accepts a configuration object, helper methods, and several microlibs.</p>\n<h3 id="example">Example</h3>\n<pre><code class="lang-javascript">  var\n    // Container div:\n    container = document.getElementById(&quot;flotr-example-graph&quot;),\n    // First data series:\n    d1 = [[0, 3], [4, 8], [8, 5], [9, 13]],\n    // Second data series:\n    d2 = [],\n    // A couple flotr configuration options:\n    options = {\n      xaxis: {\n        minorTickFreq: 4\n      },\n      grid: {\n        minorVerticalLines: true\n      }\n    },\n    i, graph;\n\n  // Generated second data set:\n  for (i = 0; i &lt; 14; i += 0.5) {\n    d2.push([i, Math.sin(i)]);\n  }\n\n  // Draw the graph:\n  graph = Flotr.draw(\n    container,  // Container element\n    [ d1, d2 ], // Array of data series\n    options     // Configuration options\n  );\n</code></pre>\n<h3 id="microlibs">Microlibs</h3>\n<ul>\n<li><a href="http://documentcloud.github.com/underscore/">underscore.js</a></li>\n<li><a href="https://github.com/fat/bean">bean.js</a></li>\n</ul>\n<h2 id="extending">Extending</h2>\n<p>Flotr may be extended by adding new plugins and graph types.</p>\n<h3 id="graph-types">Graph Types</h3>\n<p>Graph types define how a particular chart is rendered.  Examples include line, bar, pie.</p>\n<p>Existing graph types are found in <code>js/types/</code>.</p>\n<h3 id="plugins">Plugins</h3>\n<p>Plugins extend the core of flotr with new functionality.  They can add interactions, new decorations, etc.  Examples\ninclude titles, labels and selection.</p>\n<p>The plugins included are found in <code>js/plugins/</code>.</p>\n<h2 id="development">Development</h2>\n<p>This project uses <a href="https://github.com/fat/smoosh">smoosh</a> to build and <a href="http://pivotal.github.com/jasmine/">jasmine</a>\nwith <a href="https://github.com/HumbleSoftware/js-imagediff">js-imagediff</a> to test.  Tests may be executed by\n<a href="http://johnbintz.github.com/jasmine-headless-webkit/">jasmine-headless-webkit</a> with\n<code>cd spec; jasmine-headless-webkit -j jasmine.yml -c</code> or by a browser by navigating to\n<code>flotr2/spec/SpecRunner.html</code>.</p>\n<h2 id="shoutouts">Shoutouts</h2>\n<p>Thanks to Bas Wenneker, Fabien Ménager and others for all the work on the original Flotr.\nThanks to Jochen Berger and Jordan Santell for their contributions to Flotr2.</p>\n',
+    slug: '关于node.js的二次开发',
+    url: '/mypost/%E5%85%B3%E4%BA%8Enode.js%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91',
+    preview: '<p>The Canvas graphing library. Flotr may be extended by adding new plugins and graph types.</p>\n<p><a href="/mypost/%E5%85%B3%E4%BA%8Enode.js%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91" title="Read more of 关于node.js的二次开发">read more</a></p>' } ]
+[2014-01-16 18:37:18.885] [WARN] console - Warning: missing space before text for line 32 of jade file.

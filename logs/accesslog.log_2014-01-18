@@ -1,0 +1,12 @@
+[2014-01-18 00:02:58.707] [INFO] accessLog - Hello World
+[2014-01-18 00:03:05.019] [WARN] accessLog - GET /
+[2014-01-18 00:03:05.047] [WARN] accessLog - GET /css/bootstrap.css
+[2014-01-18 00:03:05.050] [WARN] accessLog - GET /stylesheets/reset-min.css
+[2014-01-18 00:03:05.056] [WARN] accessLog - GET /stylesheets/public-index-min.css
+[2014-01-18 00:03:05.057] [WARN] accessLog - GET /stylesheets/index-index-min.css
+[2014-01-18 00:03:05.058] [WARN] accessLog - GET /javascripts/jquery-1.10.2.js
+[2014-01-18 00:03:05.058] [WARN] accessLog - GET /javascripts/bootstrap.js
+[2014-01-18 00:03:05.059] [WARN] accessLog - GET /javascripts/public-init-min.js
+[2014-01-18 00:03:05.060] [WARN] accessLog - GET /javascripts/init-min.js
+[2014-01-18 00:03:05.062] [WARN] accessLog - GET /javascripts/bootstrap-collapse.js
+[2014-01-18 00:03:05.065] [WARN] accessLog - GET /images/ExCASRT.png

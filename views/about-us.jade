@@ -1,0 +1,24 @@
+extends layout
+block content
+
+    #accordion2.accordion
+        .accordion-group
+            .accordion-heading
+                a.accordion-toggle(data-toggle='collapse', data-parent='#accordion2', href='#collapseOne')
+                    | 团队介绍
+            #collapseOne.accordion-body.collapse(style='height: 0px;')
+                .accordion-inner
+                    | 极限网络计算与服务科研团队目前由赵勇教授、文泉副教授、李玉喜副教授、田文洪副教授、陈娟副教授和薛瑞尼副教授组成。旨在以具有海外学习和工作经验背景的骨干教师为主，带领一批青年教师、博士研究生和硕士研究生，进行极限规模的网络计算与服务的研究开发，这一研究领域目前在国内外还处于初级阶段。我们现在处于一个数据爆炸，IT资源日趋集中整合，而各行业计算需求不断扩大的时代，团队借鉴海外先进的教学、科研和管理模式，培养一支具备相当研究实力的队伍，研发能够管理、调度极限规模的网络计算资源，和存储、处理海量数据（PB、EB甚至更大规模）的系统和产品。团队积极加强国际交流与合作，紧密跟踪国际相关领域的动态和研究进展，争取保持研究的国际领先性，为申请省部级、国家级相关研究平台创造条件，为我院和我校的科研建设贡献力量。团队研究的重心是能够管理调度超大规模的网络连接的资源，包括大规模集群、网格、云平台、超级计算机等，进行大规模计算、存储、数据处理和挖掘，并在此基础上提供服务。主要的研究方向包括云数据中心资源管理与调度，大规模任务调度处理、海量数据处理和数据挖掘以及海量分布式存储系统的研究。
+        .accordion-group
+            .accordion-heading
+                a.accordion-toggle(data-toggle='collapse', data-parent='#accordion2', href='#collapseTwo')
+                    | 学术动态
+            #collapseTwo.accordion-body.collapse(style='height: 0px;')
+                .accordion-inner
+                    ul
+                        li
+                            a(href = '/') 计算机学院第65期学者讲坛：“云计算必经之路：极大规模环境下的资源调度管理”
+                        li 田文洪,赵勇等主编,《云计算:资源调度管理》,国防工业出版, 2011年5月出版。
+                        li 赵勇教授主持MTAGS11会议。
+
+
